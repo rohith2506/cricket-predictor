@@ -1,0 +1,27 @@
+<option selected="" value="">all teams</option>
+<option value="40">Afghanistan</option>
+<option value="4058">Africa XI</option>
+<option value="106">Asia XI</option>
+<option value="2">Australia</option>
+<option value="25">Bangladesh</option>
+<option value="12">Bermuda</option>
+<option value="17">Canada</option>
+<option value="14">East Africa</option>
+<option value="1">England</option>
+<option value="19">Hong Kong</option>
+<option value="140">ICC World XI</option>
+<option value="6">India</option>
+<option value="29">Ireland</option>
+<option value="26">Kenya</option>
+<option value="28">Namibia</option>
+<option value="15">Netherlands</option>
+<option value="5">New Zealand</option>
+<option value="7">Pakistan</option>
+<option value="20">Papua New Guinea</option>
+<option value="30">Scotland</option>
+<option value="3">South Africa</option>
+<option value="8">Sri Lanka</option>
+<option value="27">United Arab Emirates</option>
+<option value="11">United States of America</option>
+<option value="4">West Indies</option>
+<option value="9">Zimbabwe</option>
